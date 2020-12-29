@@ -44,3 +44,5 @@ export LC_ALL=en_US.UTF-8
 # projet 1 bootcamp data
 export PYTHONPATH="/Users/mohamed/code/WadiBOOM/olist:$PYTHONPATH"
 export BUNDLER_EDITOR="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl' -a"
+export BUNDLER_EDITOR="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl' -a"
+export BUNDLER_EDITOR="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl' -a"
